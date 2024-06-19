@@ -1,0 +1,11 @@
+{
+  "status": 200,
+  "count": 0,
+  "message": "Данные о ДК не найдены",
+  "inquiry": {
+    "price": 0.5,
+    "balance": 18,
+    "speed": 21,
+    "attempts": 1
+  }
+}

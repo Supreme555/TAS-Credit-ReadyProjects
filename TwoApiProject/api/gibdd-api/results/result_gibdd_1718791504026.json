@@ -1,0 +1,41 @@
+{
+  "status": 200,
+  "found": true,
+  "utilicazia": 0,
+  "utilicaziainfo": "",
+  "vehicle": {
+    "vin": "1FMEU73EX6UB13848",
+    "bodyNumber": "1FMEU73EX6UB13848",
+    "engineNumber": "2210211D",
+    "model": "ФОРД ЭКСПЛОРЕР",
+    "color": "СЕРЫЙ",
+    "year": "2006",
+    "engineVolume": "3996.0",
+    "powerHp": "212.0",
+    "powerKwt": "156.00",
+    "category": "В",
+    "type": "21",
+    "typeinfo": "Легковые автомобили универсал"
+  },
+  "vehiclePassport": {
+    "number": "66УО994953",
+    "issue": "ТАМОЖНЯ: 10502090"
+  },
+  "ownershipPeriod": [
+    {
+      "lastOperation": "01",
+      "lastOperationInfo": "регистрация новых, произведенных в России или ввезенных, а также ввезенных в Россию бывших в эксплуатации, в том числе временно на срок более 6 месяцев, испытательной техники",
+      "simplePersonType": "Natural",
+      "simplePersonTypeInfo": "Физическое лицо",
+      "from": "31.12.2014",
+      "to": "null",
+      "period": "9 лет 5 месяцев 23 дня"
+    }
+  ],
+  "inquiry": {
+    "price": 0.5,
+    "balance": 20,
+    "speed": 4,
+    "attempts": 1
+  }
+}

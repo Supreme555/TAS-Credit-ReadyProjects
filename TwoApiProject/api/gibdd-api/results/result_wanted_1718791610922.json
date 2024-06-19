@@ -1,0 +1,11 @@
+{
+  "status": 200,
+  "count": 0,
+  "message": "В розыске не найдено",
+  "inquiry": {
+    "price": 0.5,
+    "balance": 19,
+    "speed": 10,
+    "attempts": 1
+  }
+}

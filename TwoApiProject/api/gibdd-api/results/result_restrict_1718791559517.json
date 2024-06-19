@@ -1,0 +1,11 @@
+{
+  "status": 200,
+  "count": 0,
+  "message": "Ограничения отсутствуют",
+  "inquiry": {
+    "price": 0.5,
+    "balance": 19.5,
+    "speed": 0,
+    "attempts": 1
+  }
+}

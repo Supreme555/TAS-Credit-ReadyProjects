@@ -1,0 +1,34 @@
+{
+  "status": 200,
+  "count": 1,
+  "records": [
+    {
+      "num": 1,
+      "AccidentDateTime": "24.09.2015 19:30",
+      "VehicleDamageState": "Повреждено",
+      "AccidentNumber": "650067967",
+      "AccidentType": "Столкновение",
+      "DamageDestription": "",
+      "VehicleMark": "FORD",
+      "VehicleAmount": "2",
+      "VehicleYear": "2006",
+      "AccidentPlace": "Ленинский, Екатеринбург, Свердловская область, УФО",
+      "VehicleSort": "2",
+      "VehicleModel": "Explorer",
+      "OwnerOkopf": "нет данных",
+      "RegionName": "Свердловская область",
+      "DamagePointsSVG": "https://api-cloud.ru/api/damage_svg.php?damage=08",
+      "DamagePointsIMG": "null",
+      "DamagePointsSVGdesc": "https://api-cloud.ru/api/damage_svg.php?damage=08&desc=1",
+      "DamagePoints": [
+        "08"
+      ]
+    }
+  ],
+  "inquiry": {
+    "price": 0.5,
+    "balance": 18.5,
+    "speed": 0,
+    "attempts": 1
+  }
+}
