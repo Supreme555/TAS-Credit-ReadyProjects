@@ -14,9 +14,6 @@ app.listen(PORT, () => {
 });
 
 app.post('/api', async (req, res) => {
-    setTimeout(() => {
-        console.log('This message is delayed by 2 seconds');
-    }, 2000);
     try {
         const { input } = req.body;
         console.log('Received input:', input.vin);
